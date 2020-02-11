@@ -1,0 +1,3 @@
+Error: Failed to perform requested operation on instance "test1", the instance has an error status: Please try again later [Error: Build of instance 54b06b29-416a-407e-8427-1c881ea20ac5 aborted: Volume fe781cb2-dacd-45ad-8ccf-4f5a8a0b2f45 did not finish being created even after we waited 43 seconds or 8 attempts. And its status is error.].
+
+Error: Failed to perform requested operation on instance "test", the instance has an error status: Please try again later [Error: Exceeded maximum number of retries. Exhausted all hosts available for retrying build failures for instance 5aa7e988-d269-414a-b1a0-22a6e2ad7465.].
